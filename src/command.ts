@@ -167,6 +167,7 @@ function takeScreenshot(
         ...screenshotOptions,
         onAfterScreenshot(_el, props) {
           screenshotPath = props.path
+          screenshotOptions?.onAfterScreenshot?.(_el, props)
         }
       })
       // @ts-ignore
