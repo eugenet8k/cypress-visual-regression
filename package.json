@@ -1,6 +1,6 @@
 {
-  "name": "cypress-visual-regression",
-  "version": "5.0.0",
+  "name": "cypress-visual-regression-more-args",
+  "version": "5.2.0",
   "description": "Module for adding visual regression testing to Cypress",
   "keywords": [
     "visual regression",

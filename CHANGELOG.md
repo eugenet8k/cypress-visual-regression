@@ -1,5 +1,10 @@
 # Change Log
 
+## v5.2.0
+
+- **BREAKING**: Change the signature of compareSnapshotsPlugin function (PR #[235](https://github.com/cypress-visual-regression/cypress-visual-regression/pull/235)
+- doc: update README
+
 ## v5.0.0
 
 - Formatting using prettier
